@@ -28,11 +28,11 @@ namespace KartGame.KartSystems
                
                 // UNCOMMENT THIS 
 
-                /*ArcadeKart ak = other.transform.parent.GetComponent<ArcadeKart>();
+                ArcadeKart ak = other.transform.parent.GetComponent<ArcadeKart>();
                 if (ak != null)
                 {
                     ak.AddPowerup(powerup);
-                }*/
+                }
 
                 // UNCOMMENT THIS 
             }
